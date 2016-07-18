@@ -3,6 +3,7 @@ package main.java.Pizza;
 import java.util.ArrayList;
 import java.util.List;
 
+//To jest na masterze, tuz przed zmianami w nowym branczu
 public abstract class Pizza {
     protected String nazwa;
     protected String ciasto;
